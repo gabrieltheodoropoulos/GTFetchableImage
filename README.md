@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Swift-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/Version-1.0.2-blue)
 
 #### Fetch, cache and handle remote and local images fast and reliably in Swift based applications.
 
@@ -82,6 +82,10 @@ class ViewController: UIViewController, GTFetchableImage {
 
 * Most of the provided methods work asynchronously in the background. Use the main thread to update the UI when necessary.
 * Find my [detailed tutorial](https://gtiapps.com/?p=5295) on how to implement GTFetchableImage from scratch.  
+
+## Version
+
+Current up-to-date version is 1.0.2.
 
 ## License
 
